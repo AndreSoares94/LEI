@@ -1,0 +1,36 @@
+.navBar {
+    position: absolute;
+    width: 1920px;
+    height: 70px;
+    left: 0px;
+    top: 0px;
+
+    background: #FFFFFF;
+}
+
+.suport{
+    position: absolute;
+    width: 108px;
+    height: 34px;
+    left: 1700px;
+    top: 29px;
+
+    text-decoration: none;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 33px;
+
+    color: #676767;
+}
+
+
+.logoIMG {
+    position: absolute;
+    width: 160px;
+    height: 65px;
+    top: 0px;
+    left: 30px;
+
+}
